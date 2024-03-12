@@ -57,7 +57,9 @@
 }   
 /* Mobile */
 @media  (max-width:739px) {
-    
+    .main {
+        overflow:hidden;
+    }
     .hide-on-mobile {
         display:none;
     }
